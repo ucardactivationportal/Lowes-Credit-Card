@@ -5,7 +5,7 @@ Why You Should Activate Your Lowe’s Card Online Instead of by Phone?
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://lowes.syf.com/activate" style="background-color:#0073e6; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href=" https://pre.im/?2jyGias0V6PkJUPK9VY3zCH0MRd2L4k5UCvGPICUH2rCZEcKsrKbimM5B2BJk" style="background-color:#0073e6; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate Your Lowe’s Card Now
         </a>
     </div>
@@ -72,13 +72,13 @@ Whether you're planning a major home improvement or buying new appliances, activ
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://lowes.syf.com/activate" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?2jyGias0V6PkJUPK9VY3zCH0MRd2L4k5UCvGPICUH2rCZEcKsrKbimM5B2BJk" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate Lowe’s Card Now
         </a>
-        <a href="https://lowes.syf.com/login/" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?2jyGias0V6PkJUPK9VY3zCH0MRd2L4k5UCvGPICUH2rCZEcKsrKbimM5B2BJk" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Login to Lowe’s Credit Card Account
         </a>
-        <a href="https://www.lowes.com/l/Credit/consumer-credit-center" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?2jyGias0V6PkJUPK9VY3zCH0MRd2L4k5UCvGPICUH2rCZEcKsrKbimM5B2BJk" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Learn More About Lowe’s Credit Cards
         </a>
     </div>
